@@ -25,10 +25,11 @@ Analisis dilakukan untuk mengidentifikasi pola kedatangan dan pelayanan, menentu
 spbu-queue-fifo-analysis/
 │
 ├── README.md
-├── spbu-queue-fifo-report.pdf
+├── spbu-queue-fifo-journal.pdf
 ├── spbu-queue-fifo-presentation.pptx
 ├── spbu-queue-fifo-data.xlsx
 └── queue-analysis.R
+```
 ---
 
 ## 📄 Deskripsi File
@@ -36,7 +37,7 @@ spbu-queue-fifo-analysis/
 | File | Deskripsi |
 |---|---|
 | `README.md` | Dokumentasi dan ringkasan proyek |
-| `spbu-queue-fifo-report.pdf` | Laporan penelitian lengkap |
+| `spbu-queue-fifo-journal.pdf` | Jurnal penelitian |
 | `spbu-queue-fifo-presentation.pptx` | Materi presentasi penelitian |
 | `spbu-queue-fifo-data.xlsx` | Data penelitian dan hasil perhitungan |
 | `queue-analysis.R` | Syntax R untuk analisis data |
