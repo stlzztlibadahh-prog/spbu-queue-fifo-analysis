@@ -33,13 +33,16 @@ spbu-queue-fifo-analysis/
 
 ## 📄 Deskripsi File
 
-- `README.md` → Dokumentasi dan ringkasan proyek
-- `spbu-queue-fifo-report.pdf` → Laporan penelitian lengkap
-- `spbu-queue-fifo-presentation.pptx` → Materi presentasi penelitian
-- `spbu-queue-fifo-data.xlsx` → Data penelitian dan hasil perhitungan
-- `queue-analysis.R` → Syntax R untuk analisis data
+| File | Deskripsi |
+|---|---|
+| `README.md` | Dokumentasi dan ringkasan proyek |
+| `spbu-queue-fifo-report.pdf` | Laporan penelitian lengkap |
+| `spbu-queue-fifo-presentation.pptx` | Materi presentasi penelitian |
+| `spbu-queue-fifo-data.xlsx` | Data penelitian dan hasil perhitungan |
+| `queue-analysis.R` | Syntax R untuk analisis data |
 
 ---
+
 ## 🔍 Tahapan Analisis
 
 1. Pengumpulan data melalui observasi langsung
@@ -53,17 +56,20 @@ spbu-queue-fifo-analysis/
 9. Visualisasi hasil analisis menggunakan R
 
 ---
+
 ## 📊 Hasil Utama
 
-Hasil analisis menunjukkan bahwa pola kedatangan pelanggan mengikuti distribusi eksponensial, sedangkan waktu pelayanan mengikuti distribusi umum. Dengan dua fasilitas pelayanan, sistem antrean dimodelkan sebagai M/G/2 dengan disiplin pelayanan First In First Out (FIFO).
+Hasil analisis menunjukkan bahwa pola kedatangan pelanggan mengikuti distribusi eksponensial, sedangkan waktu pelayanan mengikuti distribusi umum. Dengan dua fasilitas pelayanan, sistem antrean dimodelkan sebagai **M/G/2** dengan disiplin pelayanan **First In First Out (FIFO)**.
 
 Seluruh kondisi sistem berada dalam keadaan stabil dengan nilai utilisasi sistem kurang dari 1. Kondisi antrean panjang menunjukkan tingkat kedatangan dan waktu tunggu yang lebih tinggi dibandingkan kondisi antrean pendek.
 
 ---
+
 ## 🛠️ Tools
 
-- R
-- RStudio
-- Microsoft Excel
+- **R**
+- **RStudio**
+- **Microsoft Excel**
 
 ---
+
